@@ -2,7 +2,6 @@ package sh.paseo.scroll
 
 import android.graphics.Matrix
 import android.graphics.Rect
-import android.graphics.Matrix
 import android.view.InputDevice
 import android.view.MotionEvent
 import com.facebook.react.ReactPackage
